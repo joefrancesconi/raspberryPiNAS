@@ -27,18 +27,18 @@ Before you start, ensure you have the following:
 
 ## Downloading Ubuntu Server
 
-1. Visit the [official Ubuntu website](https://ubuntu.com/download/raspberry-pi) and download the latest version of Ubuntu Server for Raspberry Pi.
+1. Visit the [official Ubuntu website](https://ubuntu.com/download/raspberry-pi) and download the latest version of Ubuntu Server for Raspberry Pi. (If you are using the Raspberry Pi imager, disregard these steps.)
 2. Choose the correct version for your Raspberry Pi model (e.g., 32-bit or 64-bit).
 
 ## Writing the Image to the SD Card
 
-1. Download and install a tool to write the image to the SD card, such as [Balena Etcher](https://www.balena.io/etcher/).
+1. Download and install a tool to write the image to the SD card, such as [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 2. Insert the microSD card into your computer’s SD card reader.
-3. Open Balena Etcher (or your chosen tool).
-4. Select the Ubuntu Server image file you downloaded.
-5. Select the microSD card as the target.
-6. Click "Flash" to begin writing the image to the SD card.
-7. Once the process is complete, safely eject the microSD card from your computer.
+4. Open your chosen tool.
+5. Select the Ubuntu Server image file you downloaded or from a dropdown in the Pi imager if you are using that.
+6. Select the microSD card as the target.
+7. Click "Next" and navigate other options to begin writing the image to the SD card.
+8. Once the process is complete, safely eject the microSD card from your computer.
 
 ## Initial Setup
 
