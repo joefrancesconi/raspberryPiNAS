@@ -208,11 +208,12 @@ Before you start, ensure you have the following:
    
 4. Select a drive letter and put in the network path to your NAS share folder.
    ![image](https://github.com/user-attachments/assets/6d93ef39-1cba-41d1-876b-8d6aaca1d03e)
+   
    You can click browse to find the folder you defined in the samba config file.
 
-5. Click OK, then Finish.
+6. Click OK, then Finish.
    
-6. Windows will now ask you for the username and password for your samba user that you created.
+7. Windows will now ask you for the username and password for your samba user that you created.
    Input those and now you should be connected to your NAS!
 
 
