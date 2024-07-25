@@ -207,7 +207,9 @@ Before you start, ensure you have the following:
    ![image](https://github.com/user-attachments/assets/1f87f885-d92a-4aa5-bad0-dad58703ba36)
    
 4. Select a drive letter and put in the network path to your NAS share folder.
-   ![image](https://github.com/user-attachments/assets/6d93ef39-1cba-41d1-876b-8d6aaca1d03e)
+   ![image](https://github.com/user-attachments/assets/05d7fb4b-119d-4d98-94b6-3b8182b2f688)
+
+
    
    You can click browse to find the folder you defined in the samba config file.
 
